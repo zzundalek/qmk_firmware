@@ -8,3 +8,4 @@ SRC += \
 
 VPATH += $(TOP_DIR)/keyboards/keychron/$(KEYCHRON_COMMON_DIR)
 
+KEY_OVERRIDE_ENABLE = yes
